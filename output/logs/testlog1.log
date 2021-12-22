@@ -1,0 +1,30 @@
+2021-11-18 12:30:50,860 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-18 12:31:02,198 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2021-11-18 12:32:34,315 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-18 12:32:43,929 [main] INFO logger_File - expected and actual are the same
+2021-11-18 12:32:45,485 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2021-11-18 12:34:18,422 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-18 12:34:26,637 [main] INFO logger_File - expected and actual are the same
+2021-11-18 12:34:27,304 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2021-11-18 12:34:47,477 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-18 12:34:57,092 [main] INFO logger_File - expected and actual are the same
+2021-11-18 12:34:58,647 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2021-11-18 12:36:28,759 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-18 12:36:41,922 [main] INFO logger_File - expected and actual are the same
+2021-11-18 12:36:42,286 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2021-11-18 12:37:38,797 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-18 12:37:54,922 [main] INFO logger_File - expected and actual are the same
+2021-11-18 12:37:55,036 [main] INFO logger_File - user clicked on currency button
+2021-11-18 12:38:03,975 [main] INFO logger_File - user choose on euro currency
+2021-11-18 12:38:04,033 [main] INFO logger_File - user saw the euro logo
+2021-11-18 12:38:04,524 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-11-18 12:39:13,433 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-18 12:39:23,142 [main] INFO logger_File - expected and actual are the same
+2021-11-18 12:39:24,639 [main] INFO logger_File - Scenario User empty Shopping cart message displays UNDEFINED
+2021-11-18 12:45:07,910 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-18 12:45:16,427 [main] INFO logger_File - expected and actual are the same
+2021-11-18 12:45:20,066 [main] INFO logger_File - user clicked on shopping cart
+2021-11-18 12:45:20,139 [main] INFO logger_File - user saw the empty message for cart
+2021-11-18 12:45:20,535 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2021-12-06 10:18:50,990 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-12-06 10:18:57,859 [main] INFO logger_File - Scenario User empty Shopping cart message displays FAILED

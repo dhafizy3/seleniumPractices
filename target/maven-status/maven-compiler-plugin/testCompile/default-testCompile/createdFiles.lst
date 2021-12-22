@@ -1,0 +1,7 @@
+stepDefinations\HomePageStepDefinition.class
+stepDefinations\Initializer.class
+stepDefinations\AddToCartStepDefinitions.class
+stepDefinations\LaptopsStepDefinitions.class
+stepDefinations\RetailPageStepDefinitions.class
+stepDefinations\DesktopItemStepDef.class
+runner\TestRunner.class
